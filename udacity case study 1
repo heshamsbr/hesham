@@ -1,0 +1,5 @@
+import pandas as pd
+    
+red_df = pd.read_csv('winequality-red.csv', sep=';')
+
+
